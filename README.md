@@ -6,6 +6,7 @@ Welcome to the **UML Diagrams Collection** for various system designs and busine
 
 - 📌 **Use Case Diagrams** — Representing system functionalities and user interactions
 - 🧩 **Class Diagrams** — Showing the system structure and relationships between objects
+- 🗃️ **ER Diagrams** — Visualizing the database structure and entity relationships
 
 
 ## 🛠️ Tools Used
